@@ -142,7 +142,6 @@ body.food-page .content {
   margin: 0 auto;
 }
 
-/* Float-based layout for Favorite Food Page Columns (60/35 split with 5% gap) */
 body.food-page .food-columns .left-column {
   float: left;
   width: 60%;
